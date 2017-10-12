@@ -50,7 +50,7 @@ int reported = 0;
 String host = "esp8266-pir";
 const char* update_path = "/firmware";
 const char* update_username = "admin";
-const char* update_password = "1yak;1sor";
+const char* update_password = "password";
 
 //bit mask for server support
 #define EASY_IOT_MASK 1
