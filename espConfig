@@ -1,0 +1,30 @@
+#config data for esp sensors
+#Each sensor starts with its Mac address then config lines
+#unused paraeters are set to -1
+#DevRed
+#MacAddress
+A020A6182DF2
+#WebName
+esp8266-pir
+#ServerMode
+128
+#EIOT Node
+N17S0
+#IFTTT par1
+pirEvent
+#IFTTT par1
+pirNotify
+#EIOT on off gap
+5000
+#Security device Number
+1
+#Security device URL
+http://192.168.0.1/request
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
